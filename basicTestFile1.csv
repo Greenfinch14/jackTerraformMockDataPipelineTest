@@ -1,0 +1,4 @@
+id,tag,data
+1,pass,color=red;shape=round;size=small
+2,fail,color=yellow;shape=oval;size=medium
+3,pass,color=green;shape=square;size=large
